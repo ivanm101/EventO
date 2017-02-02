@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hi my Laravel 5</div>
+                <div class="title">Next Laravel 5</div>
             </div>
         </div>
     </body>
